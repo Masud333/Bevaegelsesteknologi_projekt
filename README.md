@@ -5,6 +5,11 @@ Gruppe projekt udført af Ebbe Vincent Just Christensen, Frederik Nielsen, Joach
 2. signalbehandling.py er til efterbehandling hvilket bruger data gemt i /data mappen.
 
 
+# Beskrivelse
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/78741570/216615524-ef9403f9-abf0-45b5-b3a2-3e47ed68027e.png"
+         width="500">
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/78741570/216612060-0044f03b-8b29-4786-bd1b-1447cb0b82ea.png"
