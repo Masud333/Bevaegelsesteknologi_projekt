@@ -1,11 +1,12 @@
 # Bevaegelsesteknologi projekt
 Gruppe projekt udført af Ebbe Vincent Just Christensen, Frederik Nielsen, Joachim Bui, Mathias Katz Sørensen og Masud Shah Jahan i forbindelse med faget "Bevægelsesteknologi i kontekst (F22)".
 
-1. GUI.py bruges for at kører programmet.
-2. signalbehandling.py er til efterbehandling hvilket bruger data gemt i /data mappen.
+- GUI.py: Dette er hovedfilen, der kører programmet. Det bruger tkinter-modulet til at oprette et grafisk brugergrænseflade (GUI), der viser data fra en accelerometer og en gyroskop. Det har også funktioner til at starte og stoppe målingen, gemme dataene i en fil og vise en graf over dataene.
+- signalbehandling.py: Dette er en hjælpefil, der bruges til efterbehandling af dataene. Det bruger numpy og scipy-modulerne til at udføre forskellige operationer på dataene, såsom filtrering, frekvensanalyse og peakdetektion. Det har også funktioner til at beregne vinklerne mellem sensorerne og kroppens akser.
+data: Dette er en mappe, der indeholder nogle eksempeldata, der er gemt i .csv-format. Dataene er opnået ved at placere sensorerne på forskellige dele af kroppen og udføre forskellige bevægelser.
 
 
-# Beskrivelse
+# Billeder 
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/78741570/216615524-ef9403f9-abf0-45b5-b3a2-3e47ed68027e.png"
